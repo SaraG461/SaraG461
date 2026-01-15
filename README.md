@@ -4,7 +4,7 @@
 <br>In 2024, I worked in a team to build a **COVID-19 mobile application** for the Elaros company, where our application achieved **1st place** and was showcased at an expo to stakeholders. 
 <br>For my final year project, I developed an **personality-based AI chatbot** using **Python, Flask, and LangChain**. The reason I developed this application is to help the community that is suffering from isolation, and there is someone who they can communicate. This AI chatbot can adapt its communication style based on the user's personality to engage them with a friend-like conversation. 
 
-<br>I also enjoy building mobile applications, including a **food delivery app** developed with **Flutter and Firebase** as a personal project. This application has make me gain experience working in cloud database and uer-friendly UI design. 
+<br>I also enjoy building mobile applications, including a **Food Delivery mobile app** developed with **Flutter and Firebase** as a personal project. This application has make me gain experience working in cloud database and uer-friendly UI design. 
 <br> I mainly implement my projects using **React, Python, C# and JavaScript** but I enjoy exploring new approaches when solving technical problems.
 <br>I’m motivated by problem-solving, analytical thinking, and continuous learning, and I’m currently looking for a **Graduate Software Developer** role where I can grow and contribute to impactful software projects.
 
